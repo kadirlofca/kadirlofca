@@ -12,12 +12,10 @@ I'm a Computer Science student interested in learning new technologies and apply
 
 <div width="100%" align="center">
 
-### Some Repositories
-
-  <a href="https://github.com/kadirlofca/py-word-maker" title="Word Generator"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=kadirlofca&repo=py-word-maker&theme=react&border_color=61dafb&border_radius=50"></a>
-  <a href="https://github.com/kadirlofca/unity-csvmaker" title="CSV Maker"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=kadirlofca&repo=unity-csvmaker&theme=react&border_color=61dafb&border_radius=50"></a>
-  <a href="https://github.com/kadirlofca/sticky-nodes" title="Sticky Nodes"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=kadirlofca&repo=sticky-nodes&theme=react&border_color=61dafb&border_radius=50"></a>
-    <a href="https://github.com/kadirlofca/hacknc22-godotgame" title="HackNC22 Workshop"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=kadirlofca&repo=hacknc22-godotgame&theme=react&border_color=61dafb&border_radius=50"></a>
+  <a href="https://github.com/kadirlofca/py-word-maker" title="Word Generator"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=kadirlofca&repo=py-word-maker&theme=react&border_color=61dafb&border_radius=25"></a>
+  <a href="https://github.com/kadirlofca/unity-csvmaker" title="CSV Maker"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=kadirlofca&repo=unity-csvmaker&theme=react&border_color=61dafb&border_radius=25"></a>
+  <a href="https://github.com/kadirlofca/sticky-nodes" title="Sticky Nodes"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=kadirlofca&repo=sticky-nodes&theme=react&border_color=61dafb&border_radius=25"></a>
+    <a href="https://github.com/kadirlofca/hacknc22-godotgame" title="HackNC22 Workshop"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=kadirlofca&repo=hacknc22-godotgame&theme=react&border_color=61dafb&border_radius=25"></a>
     
 </div>
 
