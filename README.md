@@ -1,6 +1,6 @@
 <div width="100%" align="left">
 
-<img src="https://user-images.githubusercontent.com/48933801/197101614-a20c396e-de5f-4f95-907d-26e8b2928451.png" width="50%" height=50%>
+<img src="https://user-images.githubusercontent.com/48933801/197103613-25705133-845f-4d1e-9890-76459da1dc38.png" width="50%" height=50%>
 
 I'm a Computer Science student interested in learning new technologies and applying them in my work. From software engineering to virtual reality research, I have experienced many facets of the computer world and I improved my work each time with the skills I gained.
 
