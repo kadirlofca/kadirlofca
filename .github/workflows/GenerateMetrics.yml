@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: kadirlofca/metrics@master
+      - uses: kadirlofca/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/New_York
